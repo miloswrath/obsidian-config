@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "0b3549596ca4c436",
+    "type": "split",
+    "children": [
+      {
+        "id": "d60f161ef0e1cae5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b19ebce787948410",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "390593a62fb062af",
+    "type": "split",
+    "children": [
+      {
+        "id": "4647e469f1c5047e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a20f06711f831f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "21ad565769988a31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "be8acc2421e8e316",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ca1047f57915121",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea64ec6948c14b73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b18e09862cc08fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "344331214e41bdbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c773c67c7cf3a935",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "a9649b9da0f6decb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "14ca3706c2a1ea24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Δ/personal/dev/go/go-mod.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for go-mod"
+            }
+          },
+          {
+            "id": "3be2e20d6f28353b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "36ca94311ff3f967",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "875805fd3894c37f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "webpage-html-export:Export as HTML": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "b19ebce787948410",
+  "lastOpenFiles": [
+    "Θ/personal/Personal Cocktails.md",
+    "Ψ/td/ai-pioneer/UAT Testing Checklist.md",
+    "Δ/personal/dev/go/go-mod.md",
+    "Δ/TD/Tools/CIS/UAT.md",
+    "Ψ/personal/food/Bacon Grilled Cheese.md",
+    "Ψ/personal/drink/Smoke & Mirrors.md",
+    "Ψ/personal/food",
+    "Ψ/personal/drink",
+    "Ψ/personal",
+    "aksjdas.md",
+    "Untitled.md",
+    "Ψ/dev/go/crm/CRM TUI project.md",
+    "Θ/personal",
+    "Δ/hbc/statuses/2026-06-12.md",
+    "Δ/hbc/statuses",
+    "Δ/hbc",
+    "Δ/crm/lori-thompson.md",
+    "Δ/TD/business/DART/DART purpose.md",
+    "Δ/TD/business/DART/DART at TD SYNNEX.md",
+    "Ψ/td/ai-pioneer/AI Inbox Triage for Cisco.md",
+    "Δ/crm/matthew-pearson.md",
+    "Δ/crm/mike-hantjis.md",
+    "Δ/TD/AI-Pioneer/research/Cisco @ TD.md",
+    "Δ/crm/testies.md",
+    "Δ/crm/test.md",
+    "Δ/TD/Tools/IDP/IDP Training 1.md",
+    "Δ/crm/tes.md",
+    "Ψ/dev/go/crm",
+    "Ψ/dev/go",
+    "Ψ/dev",
+    "Δ/crm/beltran-lara.md",
+    "Δ/TD/business/DART/zac-beltran.md",
+    "Δ/TD/business/DART",
+    "Untitled 2.md",
+    "Δ/personal/dev/go/Golang learning 1.md",
+    "Untitled 1.md"
+  ]
+}
