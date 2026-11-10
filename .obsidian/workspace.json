@@ -11,12 +11,8 @@
             "id": "b19ebce787948410",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.4"
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Δ/personal/dev/go/go-mod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for go-mod"
+              "title": "Backlinks"
             }
           },
           {
@@ -214,42 +209,5 @@
     }
   },
   "active": "b19ebce787948410",
-  "lastOpenFiles": [
-    "Θ/personal/Personal Cocktails.md",
-    "Ψ/td/ai-pioneer/UAT Testing Checklist.md",
-    "Δ/personal/dev/go/go-mod.md",
-    "Δ/TD/Tools/CIS/UAT.md",
-    "Ψ/personal/food/Bacon Grilled Cheese.md",
-    "Ψ/personal/drink/Smoke & Mirrors.md",
-    "Ψ/personal/food",
-    "Ψ/personal/drink",
-    "Ψ/personal",
-    "aksjdas.md",
-    "Untitled.md",
-    "Ψ/dev/go/crm/CRM TUI project.md",
-    "Θ/personal",
-    "Δ/hbc/statuses/2026-06-12.md",
-    "Δ/hbc/statuses",
-    "Δ/hbc",
-    "Δ/crm/lori-thompson.md",
-    "Δ/TD/business/DART/DART purpose.md",
-    "Δ/TD/business/DART/DART at TD SYNNEX.md",
-    "Ψ/td/ai-pioneer/AI Inbox Triage for Cisco.md",
-    "Δ/crm/matthew-pearson.md",
-    "Δ/crm/mike-hantjis.md",
-    "Δ/TD/AI-Pioneer/research/Cisco @ TD.md",
-    "Δ/crm/testies.md",
-    "Δ/crm/test.md",
-    "Δ/TD/Tools/IDP/IDP Training 1.md",
-    "Δ/crm/tes.md",
-    "Ψ/dev/go/crm",
-    "Ψ/dev/go",
-    "Ψ/dev",
-    "Δ/crm/beltran-lara.md",
-    "Δ/TD/business/DART/zac-beltran.md",
-    "Δ/TD/business/DART",
-    "Untitled 2.md",
-    "Δ/personal/dev/go/Golang learning 1.md",
-    "Untitled 1.md"
-  ]
+  "lastOpenFiles": []
 }
